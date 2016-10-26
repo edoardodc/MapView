@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  MapView
-//
-//  Created by Owner on 04/10/15.
-//  Copyright © 2015 WecTeam. All rights reserved.
-//
-
 import UIKit
 import MapKit
 
