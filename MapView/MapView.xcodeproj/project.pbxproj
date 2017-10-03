@@ -193,6 +193,7 @@
 					EB6131431BC1AB6D007B9D2A = {
 						CreatedOnToolsVersion = 7.0.1;
 						DevelopmentTeam = WC2NUT8MA5;
+						LastSwiftMigration = 0820;
 					};
 					EB6131571BC1AB6E007B9D2A = {
 						CreatedOnToolsVersion = 7.0.1;
@@ -202,6 +203,7 @@
 					EB6131621BC1AB6E007B9D2A = {
 						CreatedOnToolsVersion = 7.0.1;
 						DevelopmentTeam = WC2NUT8MA5;
+						LastSwiftMigration = 0820;
 						TestTargetID = EB6131431BC1AB6D007B9D2A;
 					};
 				};
@@ -405,6 +407,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.wec.MapView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -416,6 +419,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.wec.MapView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -450,6 +454,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.wec.MapViewUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = MapView;
 				USES_XCTRUNNER = YES;
 			};
@@ -462,6 +467,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.wec.MapViewUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = MapView;
 				USES_XCTRUNNER = YES;
 			};
@@ -486,6 +492,7 @@
 				EB61316E1BC1AB6E007B9D2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EB61316F1BC1AB6E007B9D2A /* Build configuration list for PBXNativeTarget "MapViewTests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +501,7 @@
 				EB6131711BC1AB6E007B9D2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EB6131721BC1AB6E007B9D2A /* Build configuration list for PBXNativeTarget "MapViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +510,7 @@
 				EB6131741BC1AB6E007B9D2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
